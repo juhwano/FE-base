@@ -29,6 +29,10 @@ npm run dev
 
 ## 시스템 디자인 (System Design)
 
+<img width="1055" height="529" alt="TPF1QnD15CRlyrSyUh4U5kj1a1oarLDkHSd5svXCaoMRdR0xGOi8YTrwCDKs6Eac92K1QIr4M4i24Ui_j3FxF_XsDnE7I7lfxFj-E-_xlYMxlg2UQ3KSujTjjqazse0oRpIvorpnGXmw33nM5jIjEin06jpbvPh76mo4rp8LlqOh_BNjLk60EhwfEBRBn66J0VT4ZHDo3-8eY6-kGIr6Qj991dq3Tdc5-Qm93n_l65EFklLi" src="https://github.com/user-attachments/assets/ec0dd4f8-9d66-403b-88cc-2dc626eaf16b" />
+
+
+
 주요 구성 요소:
 
 - 사용자 인터페이스 (UI): React 컴포넌트 (Pages, Components)
