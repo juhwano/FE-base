@@ -6,6 +6,7 @@
 - **빌드 툴:** Vite
 - **스타일링:** Tailwindcss
 - **컴포넌트 로직:** Headless UI
+- **상태 관리:** Zustand
 
 <br/>
 
