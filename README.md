@@ -4,6 +4,7 @@
 
 - **라이브러리:** React
 - **빌드 툴:** Vite
+- **스타일링:** Tailwindcss
 
 <br/>
 
