@@ -7,6 +7,8 @@
 - **스타일링:** Tailwindcss
 - **컴포넌트 로직:** Headless UI
 - **상태 관리:** Zustand
+- **API 통신:** Axios
+- **라우팅:** React Router
 
 <br/>
 
